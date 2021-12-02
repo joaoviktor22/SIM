@@ -1,0 +1,99 @@
+
+                                      ARENA Simulation Results
+                                   João Viktor - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :11/22/2020
+Analista: João Viktor                                                 Data de revisão do modelo:11/22/2020
+
+Replicação terminada no tempo de      : 79200.0 Segundos (Monday, November 23, 2020, 12:29:59)
+Unidade de Tempo Base: Segundos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pecas.VATime                                3059.4     (Insuf)    2034.7     3877.8        150    
+Pecas.NVATime                               .00000     (Insuf)    .00000     .00000        150    
+Pecas.WaitTime                              7304.7     (Insuf)    3882.8     11452.        150    
+Pecas.TranTime                              .00000     (Insuf)    .00000     .00000        150    
+Pecas.OtherTime                             .00000     (Insuf)    .00000     .00000        150    
+Pecas.TotalTime                             3981.8     (Insuf)    2223.7     5414.6        150    
+Batch 2.Queue.WaitingTime                   88.702     (Insuf)    .00000     599.87        300    
+Process 8.Queue.WaitingTime                 495.06     (Insuf)    .00000     1232.4        151    
+Batch 1.Queue.WaitingTime                   131.55     (Insuf)    .00000     681.48        302    
+Process 5.Queue.WaitingTime                 1275.9     (Insuf)    1025.2     1557.9        154    
+Process 9.Queue.WaitingTime                 35.414     (Insuf)    .00000     423.27        151    
+Process 4.Queue.WaitingTime                 1494.0     (Insuf)    959.32     2080.3        154    
+Process 2.Queue.WaitingTime                 547.64     (Insuf)    .00000     1183.6        154    
+Process 7.Queue.WaitingTime                 707.08     (Insuf)    .00000     1569.3        152    
+Process 6.Queue.WaitingTime                 861.04     (Insuf)    218.96     1353.0        153    
+Process 11.Queue.WaitingTime                37.624     (Insuf)    .00000     133.00          9    
+Process 10.Queue.WaitingTime                19.983     (Insuf)    .00000     223.47        141    
+Process 1.Queue.WaitingTime                 543.25     (Insuf)    .00000     1209.6        154    
+Process 3.Queue.WaitingTime                 592.25     (Insuf)    .00000     1368.7        154    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pecas.WIP                                   21.312     (Corr)     .00000     33.000     13.000    
+Operador6.NumberBusy                        .60011     .04424     .00000     1.0000     .00000    
+Operador6.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador6.Utilization                       .60011     .04424     .00000     1.0000     .00000    
+Operador5.NumberBusy                        .91397     (Insuf)    .00000     1.0000     1.0000    
+Operador5.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador5.Utilization                       .91397     (Insuf)    .00000     1.0000     1.0000    
+Operador4.NumberBusy                        .91482     (Insuf)    .00000     1.0000     1.0000    
+Operador4.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador4.Utilization                       .91482     (Insuf)    .00000     1.0000     1.0000    
+Operador3.NumberBusy                        .98439     (Insuf)    .00000     1.0000     1.0000    
+Operador3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador3.Utilization                       .98439     (Insuf)    .00000     1.0000     1.0000    
+Operador2.NumberBusy                        .82332     (Insuf)    .00000     1.0000     .00000    
+Operador2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador2.Utilization                       .82332     (Insuf)    .00000     1.0000     .00000    
+Operador1.NumberBusy                        .96106     (Insuf)    .00000     1.0000     1.0000    
+Operador1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador1.Utilization                       .96106     (Insuf)    .00000     1.0000     1.0000    
+Batch 2.Queue.NumberInQueue                 .33645     (Insuf)    .00000     2.0000     1.0000    
+Process 8.Queue.NumberInQueue               .95401     (Insuf)    .00000     3.0000     2.0000    
+Batch 1.Queue.NumberInQueue                 .50345     (Insuf)    .00000     2.0000     1.0000    
+Process 5.Queue.NumberInQueue               2.4810     (Insuf)    .00000     6.0000     .00000    
+Process 9.Queue.NumberInQueue               .06752     (Insuf)    .00000     2.0000     .00000    
+Process 4.Queue.NumberInQueue               2.9050     (Insuf)    .00000     6.0000     .00000    
+Process 2.Queue.NumberInQueue               1.0648     (Insuf)    .00000     6.0000     .00000    
+Process 7.Queue.NumberInQueue               1.3765     (Insuf)    .00000     4.0000     2.0000    
+Process 6.Queue.NumberInQueue               1.6753     (Insuf)    .00000     4.0000     1.0000    
+Process 11.Queue.NumberInQueue              .00428     (Insuf)    .00000     1.0000     .00000    
+Process 10.Queue.NumberInQueue              .03558     (Insuf)    .00000     1.0000     .00000    
+Process 1.Queue.NumberInQueue               1.0563     (Insuf)    .00000     7.0000     .00000    
+Process 3.Queue.NumberInQueue               1.1516     (Insuf)    .00000     4.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pecas.NumberIn                              763.00    
+Pecas.NumberOut                             750.00    
+Operador6.NumberSeized                      301.00    
+Operador6.ScheduledUtilization              .60011    
+Operador5.NumberSeized                      151.00    
+Operador5.ScheduledUtilization              .91397    
+Operador4.NumberSeized                      152.00    
+Operador4.ScheduledUtilization              .91482    
+Operador3.NumberSeized                      307.00    
+Operador3.ScheduledUtilization              .98439    
+Operador2.NumberSeized                      308.00    
+Operador2.ScheduledUtilization              .82332    
+Operador1.NumberSeized                      308.00    
+Operador1.ScheduledUtilization              .96106    
+System.NumberOut                            150.00    
+
+
+Tempo executando a simulação: 0.15 minutos.
+Simulação completada.

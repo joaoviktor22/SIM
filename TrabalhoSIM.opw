@@ -1,0 +1,41 @@
+[RESOURCES]
+Operador6
+Operador5
+Operador4
+Operador3
+Operador2
+Operador1
+[VARIABLES]
+Process 5.NumberOut
+Decide 1.NumberOut False
+Process 4.NumberOut
+Separate 4.NumberOut Dup
+Process 2.NumberOut
+Process 2.NumberIn
+Process 10.NumberOut
+Process 3.NumberIn
+Process 11.NumberOut
+Separate 3.NumberOut Orig
+Process 6.NumberIn
+PecaB.NumberOut
+Process 1.NumberIn
+Separate 4.NumberOut Orig
+Batch 1.NumberOut
+Batch 2.NumberOut
+Process 8.NumberIn
+Process 9.NumberIn
+Chegada.NumberOut
+Process 7.NumberOut
+Process 6.NumberOut
+Process 7.NumberIn
+Process 5.NumberIn
+Process 4.NumberIn
+PecaA.NumberOut
+Process 8.NumberOut
+Process 3.NumberOut
+Process 9.NumberOut
+Process 11.NumberIn
+Process 10.NumberIn
+Separate 3.NumberOut Dup
+Process 1.NumberOut
+Decide 1.NumberOut True

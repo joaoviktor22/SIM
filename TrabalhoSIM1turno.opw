@@ -1,0 +1,78 @@
+[RESOURCES]
+MaquinaC1011
+MaquinaA9
+MaquinaA7.1
+MaquinaA1
+MaquinaA7.2
+MaquinaA7.3
+MaquinaA7.4
+MaquinaB6.2
+MaquinaB6.1
+MaquinaB4.1
+MaquinaB4.2
+MaquinaB8.4
+MaquinaB2
+MaquinaB8.1
+MaquinaB8.3
+MaquinaB8.2
+MaquinaA5.2
+MaquinaA5.1
+MaquinaA3.1
+MaquinaA3.2
+[VARIABLES]
+Process 5.NumberOut
+Decide 1.NumberOut False
+Decide 7.NumberOut False
+Decide 5.NumberOut False
+Decide 6.NumberOut False
+Decide 4.NumberOut False
+Process 4.NumberOut
+Process 2.NumberOut
+Process 2.NumberIn
+Process 10.NumberOut
+Process 3.NumberIn
+Process 11.NumberOut
+Process 6.NumberIn
+PecaB.NumberOut
+Process 1.NumberIn
+Process 8.NumberIn
+Process 9.NumberIn
+ChegadaB.NumberOut
+ChegadaA.NumberOut
+Process 7.NumberOut
+Process 6.NumberOut
+Process 7.NumberIn
+Process 5.NumberIn
+Process 4.NumberIn
+PecaA.NumberOut
+Process 8.NumberOut
+Process 3.NumberOut
+Process 9.NumberOut
+Process 8.2.NumberIn
+Process 8.3.NumberIn
+Process 8.4.NumberIn
+Process 6.2.NumberIn
+Process 7.4.NumberIn
+Process 7.3.NumberIn
+Process 7.2.NumberIn
+Process 4.2.NumberIn
+Process 5.2.NumberIn
+Process 3.2.NumberIn
+Process 8.2.NumberOut
+Process 8.3.NumberOut
+Process 8.4.NumberOut
+Process 6.2.NumberOut
+Process 7.4.NumberOut
+Process 7.3.NumberOut
+Process 7.2.NumberOut
+Process 4.2.NumberOut
+Process 5.2.NumberOut
+Process 3.2.NumberOut
+Process 10.NumberIn
+Process 11.NumberIn
+Process 1.NumberOut
+Decide 1.NumberOut True
+Decide 7.NumberOut True
+Decide 5.NumberOut True
+Decide 6.NumberOut True
+Decide 4.NumberOut True

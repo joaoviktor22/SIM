@@ -1,0 +1,194 @@
+
+                                      ARENA Simulation Results
+                                   João Viktor - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2020
+Analista: João Viktor                                                 Data de revisão do modelo:12/ 2/2020
+
+Replicação terminada no tempo de      : 480.0 Minutos (Monday, November 23, 2020, 12:29:59)
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+PecasA.VATime                               37.920     (Insuf)    36.494     39.775        140    
+PecasA.NVATime                              .00000     (Insuf)    .00000     .00000        140    
+PecasA.WaitTime                             29.417     (Insuf)    3.1749     58.452        140    
+PecasA.TranTime                             2.5000     (Insuf)    2.5000     2.5000        140    
+PecasA.OtherTime                            10.000     (Insuf)    10.000     10.000        140    
+PecasA.TotalTime                            79.838     (Insuf)    52.216     109.17        140    
+PecasB.VATime                               42.894     (Insuf)    41.999     44.273         10    
+PecasB.NVATime                              .00000     (Insuf)    .00000     .00000         10    
+PecasB.WaitTime                             22.950     (Insuf)    .00000     50.285         10    
+PecasB.TranTime                             2.5000     (Insuf)    2.5000     2.5000         10    
+PecasB.OtherTime                            10.000     (Insuf)    10.000     10.000         10    
+PecasB.TotalTime                            78.345     (Insuf)    55.253     106.49         10    
+Process 7.2.Queue.WaitingTime               6.6823     (Insuf)    .00000     31.132         45    
+Process 8.4.Queue.WaitingTime               3.8800     (Insuf)    .00000     15.268         36    
+Process 6.2.Queue.WaitingTime               .95952     (Insuf)    .00000     5.7491         76    
+Process 5.2.Queue.WaitingTime               .97746     (Insuf)    .00000     5.3300         61    
+Process 8.Queue.WaitingTime                 3.6437     (Insuf)    .00000     13.623         41    
+Process 5.Queue.WaitingTime                 1.8210     (Insuf)    .00000     6.8095         89    
+Process 7.4.Queue.WaitingTime               2.4213     (Insuf)    .00000     11.184         33    
+Process 9.Queue.WaitingTime                 2.8410     (Insuf)    .00000     11.606        150    
+Process 3.2.Queue.WaitingTime               2.5060     (Insuf)    .00000     9.9651         81    
+Process 8.3.Queue.WaitingTime               2.4612     (Insuf)    .00000     9.1115         40    
+Process 4.Queue.WaitingTime                 5.7308     (Insuf)    .00000     21.988         72    
+Process 2.Queue.WaitingTime                 1.9334     (Insuf)    .00000     3.4075        150    
+Process 7.Queue.WaitingTime                 2.0845     (Insuf)    .00000     13.421         30    
+Process 7.3.Queue.WaitingTime               3.5288     (Insuf)    .00000     12.887         42    
+Process 6.Queue.WaitingTime                 1.6188     (Insuf)    .00000     10.019         74    
+Process 11.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000         10    
+Process 10.Queue.WaitingTime                .47736     (Insuf)    .00000     4.2657        140    
+Process 4.2.Queue.WaitingTime               15.016     (Insuf)    .00000     29.433         78    
+Process 1.Queue.WaitingTime                 1.1182     (Insuf)    .00000     2.8404        150    
+Process 3.Queue.WaitingTime                 1.9117     (Insuf)    .00000     9.6175         69    
+Process 8.2.Queue.WaitingTime               2.5812     (Insuf)    .00000     12.106         33    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+PecasA.WIP                                  23.286     (Insuf)    .00000     34.000     .00000    
+PecasB.WIP                                  1.6322     (Insuf)    .00000     3.0000     .00000    
+MaquinaC1011.NumberBusy                     .56990     (Insuf)    .00000     1.0000     .00000    
+MaquinaC1011.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaC1011.Utilization                    .56990     (Insuf)    .00000     1.0000     .00000    
+MaquinaA9.NumberBusy                        .77577     (Insuf)    .00000     1.0000     .00000    
+MaquinaA9.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA9.Utilization                       .77577     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.1.NumberBusy                      .40343     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA7.1.Utilization                     .40343     (Insuf)    .00000     1.0000     .00000    
+MaquinaA1.NumberBusy                        .77569     (Insuf)    .00000     1.0000     .00000    
+MaquinaA1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA1.Utilization                       .77569     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.2.NumberBusy                      .61073     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA7.2.Utilization                     .61073     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.3.NumberBusy                      .57343     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.3.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA7.3.Utilization                     .57343     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.4.NumberBusy                      .44646     (Insuf)    .00000     1.0000     .00000    
+MaquinaA7.4.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA7.4.Utilization                     .44646     (Insuf)    .00000     1.0000     .00000    
+MaquinaB6.2.NumberBusy                      .54726     (Insuf)    .00000     1.0000     .00000    
+MaquinaB6.2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB6.2.Utilization                     .54726     (Insuf)    .00000     1.0000     .00000    
+MaquinaB6.1.NumberBusy                      .53596     (Insuf)    .00000     1.0000     .00000    
+MaquinaB6.1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB6.1.Utilization                     .53596     (Insuf)    .00000     1.0000     .00000    
+MaquinaB4.1.NumberBusy                      .74631     (Insuf)    .00000     1.0000     .00000    
+MaquinaB4.1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB4.1.Utilization                     .74631     (Insuf)    .00000     1.0000     .00000    
+MaquinaB4.2.NumberBusy                      .81109     (Insuf)    .00000     1.0000     .00000    
+MaquinaB4.2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB4.2.Utilization                     .81109     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.4.NumberBusy                      .48620     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.4.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB8.4.Utilization                     .48620     (Insuf)    .00000     1.0000     .00000    
+MaquinaB2.NumberBusy                        .78955     (Insuf)    .00000     1.0000     .00000    
+MaquinaB2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB2.Utilization                       .78955     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.1.NumberBusy                      .55238     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB8.1.Utilization                     .55238     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.3.NumberBusy                      .54017     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.3.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB8.3.Utilization                     .54017     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.2.NumberBusy                      .44906     (Insuf)    .00000     1.0000     .00000    
+MaquinaB8.2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaB8.2.Utilization                     .44906     (Insuf)    .00000     1.0000     .00000    
+MaquinaA5.2.NumberBusy                      .44422     (Insuf)    .00000     1.0000     .00000    
+MaquinaA5.2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA5.2.Utilization                     .44422     (Insuf)    .00000     1.0000     .00000    
+MaquinaA5.1.NumberBusy                      .64672     (Insuf)    .00000     1.0000     .00000    
+MaquinaA5.1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA5.1.Utilization                     .64672     (Insuf)    .00000     1.0000     .00000    
+MaquinaA3.1.NumberBusy                      .58033     (Insuf)    .00000     1.0000     .00000    
+MaquinaA3.1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA3.1.Utilization                     .58033     (Insuf)    .00000     1.0000     .00000    
+MaquinaA3.2.NumberBusy                      .66915     (Insuf)    .00000     1.0000     .00000    
+MaquinaA3.2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+MaquinaA3.2.Utilization                     .66915     (Insuf)    .00000     1.0000     .00000    
+Process 7.2.Queue.NumberInQueue             .62647     (Insuf)    .00000     5.0000     .00000    
+Process 8.4.Queue.NumberInQueue             .29100     (Insuf)    .00000     3.0000     .00000    
+Process 6.2.Queue.NumberInQueue             .15192     (Insuf)    .00000     2.0000     .00000    
+Process 5.2.Queue.NumberInQueue             .12422     (Insuf)    .00000     2.0000     .00000    
+Process 8.Queue.NumberInQueue               .31124     (Insuf)    .00000     3.0000     .00000    
+Process 5.Queue.NumberInQueue               .33765     (Insuf)    .00000     2.0000     .00000    
+Process 7.4.Queue.NumberInQueue             .16647     (Insuf)    .00000     2.0000     .00000    
+Process 9.Queue.NumberInQueue               .88782     (Insuf)    .00000     5.0000     .00000    
+Process 3.2.Queue.NumberInQueue             .42289     (Insuf)    .00000     3.0000     .00000    
+Process 8.3.Queue.NumberInQueue             .20511     (Insuf)    .00000     2.0000     .00000    
+Process 4.Queue.NumberInQueue               .85963     (Insuf)    .00000     5.0000     .00000    
+Process 2.Queue.NumberInQueue               .60421     (Insuf)    .00000     2.0000     .00000    
+Process 7.Queue.NumberInQueue               .13029     (Insuf)    .00000     3.0000     .00000    
+Process 7.3.Queue.NumberInQueue             .30877     (Insuf)    .00000     2.0000     .00000    
+Process 6.Queue.NumberInQueue               .24958     (Insuf)    .00000     3.0000     .00000    
+Process 11.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Process 10.Queue.NumberInQueue              .13923     (Insuf)    .00000     2.0000     .00000    
+Process 4.2.Queue.NumberInQueue             2.4401     (Insuf)    .00000     6.0000     .00000    
+Process 1.Queue.NumberInQueue               .34944     (Insuf)    .00000     2.0000     .00000    
+Process 3.Queue.NumberInQueue               .27482     (Insuf)    .00000     3.0000     .00000    
+Process 8.2.Queue.NumberInQueue             .17746     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+PecasA.NumberIn                             140.00    
+PecasA.NumberOut                            140.00    
+PecasB.NumberIn                             10.000    
+PecasB.NumberOut                            10.000    
+MaquinaC1011.NumberSeized                   150.00    
+MaquinaC1011.ScheduledUtilization           .56990    
+MaquinaA9.NumberSeized                      150.00    
+MaquinaA9.ScheduledUtilization              .77577    
+MaquinaA7.1.NumberSeized                    30.000    
+MaquinaA7.1.ScheduledUtilization            .40343    
+MaquinaA1.NumberSeized                      150.00    
+MaquinaA1.ScheduledUtilization              .77569    
+MaquinaA7.2.NumberSeized                    45.000    
+MaquinaA7.2.ScheduledUtilization            .61073    
+MaquinaA7.3.NumberSeized                    42.000    
+MaquinaA7.3.ScheduledUtilization            .57343    
+MaquinaA7.4.NumberSeized                    33.000    
+MaquinaA7.4.ScheduledUtilization            .44646    
+MaquinaB6.2.NumberSeized                    76.000    
+MaquinaB6.2.ScheduledUtilization            .54726    
+MaquinaB6.1.NumberSeized                    74.000    
+MaquinaB6.1.ScheduledUtilization            .53596    
+MaquinaB4.1.NumberSeized                    72.000    
+MaquinaB4.1.ScheduledUtilization            .74631    
+MaquinaB4.2.NumberSeized                    78.000    
+MaquinaB4.2.ScheduledUtilization            .81109    
+MaquinaB8.4.NumberSeized                    36.000    
+MaquinaB8.4.ScheduledUtilization            .48620    
+MaquinaB2.NumberSeized                      150.00    
+MaquinaB2.ScheduledUtilization              .78955    
+MaquinaB8.1.NumberSeized                    41.000    
+MaquinaB8.1.ScheduledUtilization            .55238    
+MaquinaB8.3.NumberSeized                    40.000    
+MaquinaB8.3.ScheduledUtilization            .54017    
+MaquinaB8.2.NumberSeized                    33.000    
+MaquinaB8.2.ScheduledUtilization            .44906    
+MaquinaA5.2.NumberSeized                    61.000    
+MaquinaA5.2.ScheduledUtilization            .44422    
+MaquinaA5.1.NumberSeized                    89.000    
+MaquinaA5.1.ScheduledUtilization            .64672    
+MaquinaA3.1.NumberSeized                    69.000    
+MaquinaA3.1.ScheduledUtilization            .58033    
+MaquinaA3.2.NumberSeized                    81.000    
+MaquinaA3.2.ScheduledUtilization            .66915    
+System.NumberOut                            150.00    
+
+
+Tempo executando a simulação: 0.17 minutos.
+Simulação completada.
